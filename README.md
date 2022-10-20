@@ -11,12 +11,6 @@ I am **Pratyay Dhond** and it's amazing to have you here!
   [Hackerrank](https://www.hackerrank.com/dhondpratyay) |
   [YouTube](https://www.youtube.com/channel/UCNnTIJy8T3ryQ4RZgIv_R4Q) 
 
-###
-
-<img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
-
-
 [![@dhondpratyay's Holopin board](https://holopin.me/dhondpratyay)](https://holopin.io/@dhondpratyay)
 
 <!--
