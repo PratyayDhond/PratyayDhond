@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{PratyayDhond}/count.svg" alt="vaibhav1663 :: Visitor's Count" /></p>
+
+<h4 align="center">Profile stats</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PratyayDhond&count_private=true&show_icons=true&theme=gotham" /></p>
