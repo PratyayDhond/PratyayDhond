@@ -31,5 +31,11 @@ Here are some ideas to get you started:
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{PratyayDhond}/count.svg" alt="vaibhav1663 :: Visitor's Count" /></p>
 
+<p align="center">
+  <a href="https://github.com/PratyayDhond">
+    <img title="GithubStats" alt="Pratyay's streak" src="https://streak-stats.demolab.com/?user=PratyayDhond&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
+</p>
+
 <h4 align="center">Profile stats</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PratyayDhond&count_private=true&show_icons=true&theme=gotham" /></p>
