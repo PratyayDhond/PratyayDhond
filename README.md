@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{PratyayDhond}/count.svg" alt="vaibhav1663 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{PratyayDhond}/count.svg" alt="Pratyay Dhond Visitor's count" /></p>
 
 <p align="center">
   <a href="https://github.com/PratyayDhond">
