@@ -9,7 +9,8 @@ I am **Pratyay Dhond** and it's amazing to have you here!
 ### My Socials
   [Linkedin](https://www.linkedin.com/in/pratyay-dhond-7944a3209/) |
   [Hackerrank](https://www.hackerrank.com/dhondpratyay) |
-  [YouTube](https://www.youtube.com/channel/UCNnTIJy8T3ryQ4RZgIv_R4Q) 
+  [YouTube](https://www.youtube.com/channel/UCNnTIJy8T3ryQ4RZgIv_R4Q) |
+  [LeetCode](https://leetcode.com/PratyayDhond/)
 
 [![@dhondpratyay's Holopin board](https://holopin.me/dhondpratyay)](https://holopin.io/@dhondpratyay)
 
