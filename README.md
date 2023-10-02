@@ -14,7 +14,7 @@ I am **Pratyay Dhond** and it's amazing to have you here!
 
 [![@dhondpratyay's Holopin board](https://holopin.me/dhondpratyay)](https://holopin.io/@dhondpratyay)
 
-![](https://github-profile-trophy.vercel.app/?username=PratyayDhond&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!--
 **PratyayDhond/PratyayDhond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
