@@ -6,13 +6,14 @@ I am **Pratyay Dhond** and it's amazing to have you here!
 - I am currently reading about **System Design** and planning to read more about writing efficient tests.
 - I am a Free Software Enthusiast and a strong believer in KNOWLEDGE SHOULD BE FREE!
 - Checkout my Linkedin for more activity and recent posts!
-- I recently started working on my [**Second Brain**](https://pratyaydhond.github.io/obsidianSync/); it hosts my notes and docs which might be helpful.
+- I recently started working on [**Kindle Clippings**](https://kindle-clippings.pages.dev/) - A simple yet efficient way to organise and access kindle highlights - anytime, anywhere!
 
 ### My Socials
   [**Linkedin**](https://www.linkedin.com/in/pratyay-dhond-7944a3209/) |
   [Hackerrank](https://www.hackerrank.com/dhondpratyay) |
   [YouTube](https://www.youtube.com/channel/UCNnTIJy8T3ryQ4RZgIv_R4Q) |
   [LeetCode](https://leetcode.com/PratyayDhond/)
+  [My Second Brain](https://pratyaydhond.github.io/secondBrain/)
 
 [![@dhondpratyay's Holopin board](https://holopin.me/dhondpratyay)](https://holopin.io/@dhondpratyay)
 
